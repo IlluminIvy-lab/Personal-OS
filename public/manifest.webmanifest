@@ -1,0 +1,22 @@
+{
+  "short_name": "Personal OS",
+  "name": "Personal OS Hub - Executive Dashboard",
+  "icons": [
+    {
+      "src": "pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "description": "Intelligent Executive Productivity Dashboard with live Google Workspace & AI Assistant."
+}

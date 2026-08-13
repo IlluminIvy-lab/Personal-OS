@@ -1,0 +1,8 @@
+{
+  "name": "Personal OS Hub",
+  "description": "A personal operating system dashboard with task tracking, high-priority objectives, Google Workspace suite (Contacts, Gmail, Tasks, Drive Picker, Keep notes), system metrics, and streaming Gemini AI Assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
